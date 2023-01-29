@@ -1,0 +1,3 @@
+[submodule "themes/vislies-hugo-theme"]
+	path = themes/vislies-hugo-theme
+	url = https://github.com/vislies/vislies-hugo-theme.git
