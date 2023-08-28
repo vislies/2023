@@ -16,6 +16,8 @@ Held in conjunction with IEEE VIS 2022
 Omni Oklahoma City Hotel, ~~Five Moons 6 Room~~ Oklahoma Station 1
 -->
 
+Held at IEEE VIS 2023
+
 This fun and engaging event showcases examples of egregious perceptual,
 cognitive, and conceptual errors in visualization, presented by members of
 the VIS community. Examples from our own work, from published papers, and
