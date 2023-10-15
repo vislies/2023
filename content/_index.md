@@ -10,13 +10,9 @@ main_nav:
 
 # VisLies 2023
 
-<!--
-**Tuesday October 18** 12:30 – 2:00 PM  
-Held in conjunction with IEEE VIS 2022  
-Omni Oklahoma City Hotel, ~~Five Moons 6 Room~~ Oklahoma Station 1
--->
-
-Held at IEEE VIS 2023
+**Wednesday, October 25** 12:00 – 1:00 PM  
+Held at IEEE VIS 2023  
+Melbourne Convention & Exhibition Centre, Room 103
 
 This fun and engaging event showcases examples of egregious perceptual,
 cognitive, and conceptual errors in visualization, presented by members of
