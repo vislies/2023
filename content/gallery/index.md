@@ -484,8 +484,17 @@ from the images above. Even those bumpy images that might be comprised of
 spheres are constructed in no way related to the actual configuration of
 DNA. Sure, the representation of a molecule can take some creative
 liberties of what it "looks" like, but the underlying configuration should
-be correct. We expect this from medical and biology publications that
-should know better.
+be correct.
+
+To be clear, there is no problem with simplifying the representation or
+using symbolic notation. Both are done on this good example here to help
+understand the structure of the molecule. The problem comes from these
+hi-res, detailed, and realistic-looking pictures that people could easily
+mistake for electron microscopy and think, "Wow, I've never seen such
+detailed images of DNA before. Who knew it looked like that?" Well, it
+doesn't, and we expect better from medical and biology publications that
+know this.
+
 
 [Alex Kouyoumdjian]: https://cemse.kaust.edu.sa/cs/people/person/alexandre-kouyoumdjian
 
